@@ -1,2 +1,2 @@
-# terraform-module-gitlab
-terraform-module-gitlab
+# This modules installs gitlab helm chart
+
